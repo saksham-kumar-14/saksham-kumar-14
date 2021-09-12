@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saksham-kumar-14
-- 👀 I’m a programming enthusiast and life long learner. 
+- 👀 I’m a programming enthusiast and a life long learner. 
 - 🌱 I’m currently learning web development 
 - Email me on sakshamkumar1415@gmail.com
 <!---
