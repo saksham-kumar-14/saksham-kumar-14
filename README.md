@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @saksham-kumar-14
 - 👀 I’m a programming enthusiast.
-- 🌱 I’m currently learning web development 
 - I love working on side projects
-- Web 3 enthusiast
+- Web 3 and AI-ML enthusiast
 - Email me at sakshamkumar1415@gmail.com
 <!---
 saksham-kumar-14/saksham-kumar-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
