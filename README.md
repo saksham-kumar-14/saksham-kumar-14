@@ -7,7 +7,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=saksham-kumar-14&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/saksham-kumar-14">
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-kumar-14&layout=compact&langs_count=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-kumar-14&layout=compact&langs_count=10" />
 </a>
 
 <br>
