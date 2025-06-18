@@ -5,8 +5,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=saksham-kumar-14&show_icons=true&theme=gruvbox" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-kumar-14&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-kumar-14" /> </p>
-
 - 🌱 I’m currently learning about **Devops, LLMs, Reverse Engineering**
 
 - 📫 How to reach me **sakshamkumar1415@gmail.com**
